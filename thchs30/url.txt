@@ -1,0 +1,1 @@
+https://github.com/kaldi-asr/kaldi/tree/master/egs/thchs30
